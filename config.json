@@ -3,5 +3,9 @@
     "subTitle":"密涅瓦的猫头鹰只在黄昏起飞",
     "avatarUrl":"https://avatars.githubusercontent.com/u/246721444?v=4",
     "GMEEK_VERSION":"last",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+    "allHead":<link rel=\"preconnect\" href=\"https://code.buxiantang.top\"><link rel=\"preconnect\" href=\"https://blog.meekdai.com\"><link rel=\"stylesheet\" href=\"https://code.buxiantang.top/assets/GmeekBaseTheme.css\"><script src=\"https://code.buxiantang.top/assets/GmeekCustomizeCss.js\"></script>
+
     "email":"wy15206840096@outlook.com"
 }
